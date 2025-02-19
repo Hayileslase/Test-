@@ -62,3 +62,10 @@ try:
     plot_robot(theta1, theta2, theta3)
 except ValueError as e:
     print(e)
+
+
+
+hejejn
+bjnjde
+knedke
+
